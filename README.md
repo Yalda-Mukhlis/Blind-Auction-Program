@@ -50,7 +50,7 @@ Users can choose to continue adding bidders until all participants have entered 
 
 ## 📂 Project Files
 - `main.py` — core auction logic  
-- `art.py` — ASCII-art logo (optional depending on your version)  
+- `art.py` — ASCII-art logo 
 
 ---
 
